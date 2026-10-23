@@ -50,8 +50,8 @@ I'm building a strong foundation in **Data Structures and Algorithms using C++**
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-theraisahab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theraisahab)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20Your%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avnish-rai-a712691a6/)
-[![Email](https://img.shields.io/badge/Email-Add%20Your%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravnish40@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avnish-rai-a712691a6/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravnish40@gmail.com)
 
 </div>
 
